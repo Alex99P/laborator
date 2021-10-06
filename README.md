@@ -1,1 +1,2 @@
 # laborator
+Dropbox este un excelent exemplu de SaaS care servește atât sectorul B2B, cât și cel al B2C, cu planuri diferite pentru utilizatorii de afaceri și pentru utilizatorii privați. Acestea oferă stocare în cloud pentru toate documentele și fișierele dvs. importante. Datorită aplicației lor pentru desktop și mobil, vă puteți accesa fișierele de pe computer și de pe orice dispozitiv mobil pe care îl dețineți. De asemenea, puteți sincroniza fișiere de pe computer și smartphone cu serverele Dropbox.
