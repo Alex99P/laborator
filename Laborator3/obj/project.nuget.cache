@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2koLK8bcz9pirVqtQE1Y5XK/I7F4W8EFz/8QPm9EixwAewmKxhSe5B5wOG0gbMImVDT1/Ok1kvDd/31Ih59nQ==",
+  "success": true,
+  "projectFilePath": "E:\\Facultate\\Datc\\PatroiAlex\\Laborator3\\Laborator3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patro\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
+    "C:\\Users\\patro\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
+    "C:\\Users\\patro\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
+    "C:\\Users\\patro\\.nuget\\packages\\google.apis.drive.v3\\1.55.0.2481\\google.apis.drive.v3.1.55.0.2481.nupkg.sha512",
+    "C:\\Users\\patro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
